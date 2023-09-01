@@ -1,6 +1,6 @@
 #  Hi  👋, I'm Hasindu Dasanayaka
 
-### I am a University Undergraduate with a great passion for Software Engineering. I am a hard-working dedicated dynamic individual who wants to be a qualified professional in the industry.
+### I am a University Graduate with a great passion for Software Engineering. I am a hard-working dedicated dynamic individual who wants to be a qualified professional in the industry.
 -   🌱  I’m currently learning  **Java & Machine Learning**
 -   📫  Reach me  **[hasindudasanayaka@gmail.com](mailto:hasindudasanayaka@gmail.com)**
 
